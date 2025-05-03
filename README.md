@@ -17,5 +17,6 @@ This repository contains `.sql` files used for practicing and refining my SQL sk
 +-- 08_cte_views.sql             # Common Table Expressions, Views
 +-- README.md                    # Project overview
 
-![Books Table Query Screenshot](SQL%20Course%20Assignment.JPG)
+![SQL Assignment Screenshot](hospital_assignment_screenshot.jpg)
+
 
