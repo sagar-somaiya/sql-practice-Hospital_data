@@ -1,22 +1,56 @@
-# SQL Practice Repository
 
-This repository contains `.sql` files used for practicing and refining my SQL skills. It includes examples of database creation, data manipulation, querying, joins, subqueries, CTEs, window functions, and more—geared towards real-world business scenarios, especially in accounting and finance contexts.
+---
 
-## ?? Repository Structure
+## 🎯 Project Objective
 
-```bash
-/sql-practice
-¦
-+-- 01_create_tables.sql         # Table creation scripts
-+-- 02_insert_data.sql           # Sample data insertions
-+-- 03_basic_queries.sql         # SELECT, WHERE, ORDER BY, etc.
-+-- 04_joins.sql                 # INNER, LEFT, RIGHT, FULL JOINs
-+-- 05_subqueries.sql            # Subquery examples
-+-- 06_aggregate_functions.sql   # COUNT, SUM, AVG, etc.
-+-- 07_window_functions.sql      # RANK, DENSE_RANK, ROW_NUMBER, etc.
-+-- 08_cte_views.sql             # Common Table Expressions, Views
-+-- README.md                    # Project overview
+- **Design** a normalized schema for hospital operations (patients, doctors, admissions, billing)
+- **Populate** the database with realistic sample data
+- **Query** the data to answer business questions and produce summary reports
+- **Practice** advanced SQL features: joins, subqueries, CTEs, window functions, and aggregate logic
+
+---
+
+## 🔍 Sample Queries Demonstrated
+
+- Total patients admitted per department
+- Doctors ranked by patient count
+- Average length of stay by ward
+- Billing summary by patient and treatment
+- Daily admissions trends
+- Running totals & moving averages via window functions
+
+---
+
+## 📸 Screenshot Preview
 
 ![SQL Assignment Screenshot](hospital_assignment_screenshot.jpg)
 
+---
+
+## 🔧 Tools & Environment
+
+- **SQL Dialect:** Compatible with MySQL & PostgreSQL  
+- **IDE:** pgAdmin 4 / MySQL Workbench  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 🧠 Skills Highlighted
+
+- Data modeling & schema creation  
+- CRUD operations & complex querying  
+- Data aggregation & reporting  
+- Use of CTEs, views, and window functions  
+- Real‑world scenario simulation for healthcare analytics  
+
+---
+
+## 📈 Next Steps
+
+1. **Add** sample stored procedures or triggers  
+2. **Connect** to Power BI for dashboard visualizations  
+3. **Document** ER diagram for schema clarity  
+4. **Expand** dataset with outpatient and inventory tables  
+
+![SQL Assignment Screenshot](hospital_assignment_screenshot.jpg)
 
