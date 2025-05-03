@@ -16,4 +16,5 @@ This repository contains `.sql` files used for practicing and refining my SQL sk
 +-- 07_window_functions.sql      # RANK, DENSE_RANK, ROW_NUMBER, etc.
 +-- 08_cte_views.sql             # Common Table Expressions, Views
 +-- README.md                    # Project overview
+
 ![SQL Course Assignment](SQL%20Course%20Assignment.JPG)
